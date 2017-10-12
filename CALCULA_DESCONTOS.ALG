@@ -3,7 +3,7 @@ Algoritmo "Calcula_Descontos"
 // Data atual  : 12/10/2017
 Var
 quantidade,valor,desconto,valorTotal,: real
-nome,algo : carater
+nome,algo : caracter
 Inicio
 escreval ("informe o valor da compra")
 leia (valor)

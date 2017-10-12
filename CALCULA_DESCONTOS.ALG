@@ -2,7 +2,7 @@ Algoritmo "Calcula_Descontos"
 // Autor(a)    : Tiago Lima
 // Data atual  : 12/10/2017
 Var
-quantidade,valor,desconto,valorTotal,: real
+quantidade,valor,desconto,valorTotal: real
 nome,algo : caracter
 Inicio
 escreval ("informe o valor da compra")
